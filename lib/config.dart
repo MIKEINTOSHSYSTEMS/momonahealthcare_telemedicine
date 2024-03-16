@@ -15,15 +15,15 @@ const IQONIC_PACKAGE_NAME = "com.iqonic.kivicare"; // Do not change this Package
 const DEFAULT_LANGUAGE = 'en';
 var COPY_RIGHT_TEXT = '© ${DateTime.now().year}. Made with ♡ by MIKEINTOSH SYSTEMS';
 
-const TERMS_AND_CONDITION_URL = '';
-const PRIVACY_POLICY_URL = '';
-const SUPPORT_URL = '';
-const CODE_CANYON_URL = "";
-const MAIL_TO = "";
+const TERMS_AND_CONDITION_URL = 'https://momonahealthcare.com/terms-and-conditions';
+const PRIVACY_POLICY_URL = 'https://momonahealthcare.com/privacy';
+const SUPPORT_URL = 'https://momonahealthcare.com/contact';
+const CODE_CANYON_URL = "https://momonahealthcare.com/shop";
+const MAIL_TO = "mailto:support@momonahealthcare.com";
 
-const ONESIGNAL_APP_ID = '' //Your ONESIGNAL_APP_ID ;
-const ONESIGNAL_REST_API_ID = '' //ONESIGNAL_REST_API_ID;
-const ONESIGNAL_CHANNEL_ID = '' //Your ONESIGNAL_CHANNEL_ID;
+const ONESIGNAL_APP_ID = ''; //Your ONESIGNAL_APP_ID ; dd5441fa-b17e-4436-94b6-35b54b49a4dd
+const ONESIGNAL_REST_API_ID = ''; //ONESIGNAL_REST_API_ID; ODY2YWQyZTUtNWRmOS00NGNlLTlkNTItYWM0ODgwMjgyMGU5
+const ONESIGNAL_CHANNEL_ID = ''; //Your ONESIGNAL_CHANNEL_ID;a45d2167-6450-4db2-89a7-2a2a81f86a0d
 
 const STRIPE_CURRENCY_CODE = 'INR';
 const STRIPE_MERCHANT_COUNTRY_CODE = 'IN';

@@ -48,7 +48,7 @@ android {
     lint {
         disable 'InvalidPackage'
     }
-    namespace 'com.iqonic.kivicare_flutter'
+    namespace 'com.iqonic.momona_healthcare'
 }
 
 flutter {

@@ -1,4 +1,4 @@
-package com.iqonic.kivicare_flutter
+package com.iqonic.momona_healthcare
 
 import io.flutter.embedding.android.FlutterActivity
 import io.flutter.embedding.android.FlutterFragmentActivity
