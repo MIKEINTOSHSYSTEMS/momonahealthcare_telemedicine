@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "693927932785",
+    "project_id": "momonatelemed",
+    "storage_bucket": "momonatelemed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693927932785:android:3e414d18147b0b95e8bcd0",
+        "android_client_info": {
+          "package_name": "com.momona.healthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693927932785-b6ac565fsjqtqutcu8kmfir4c2d3vqrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.momona.healthcare",
+            "certificate_hash": "348873d72c16e6c0ec098bf6337b312327e2ec67"
+          }
+        },
+        {
+          "client_id": "693927932785-uu6v91j2k0su9hvn0v9geuh2cm5dbde1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA1lqB3_-xgrjQG3-JhyAHHVQLfS4kKOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693927932785-uu6v91j2k0su9hvn0v9geuh2cm5dbde1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
